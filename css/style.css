@@ -1,0 +1,24 @@
+.test{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+.testbg{
+	background-color: #4169E1;
+}
+body{
+	/*background-image: url(../picture/testpic.jpg);
+	background-repeat:no-repeat;*/
+	/*background-color: black;*/
+}
+.first{
+	float: right;
+}
+
+.third
+{
+   font-size: 25px;
+   width: 100px;
+   height: 100px;
+   border-color: blue;
+}
